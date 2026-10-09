@@ -256,6 +256,7 @@ export default function Home() {
             <a href="#features" className="hover:text-blue-600">Features</a>
             <a href="#about" className="hover:text-blue-600">About</a>
             <a href="/privacy" className="hover:text-blue-600">Privacy Policy</a>
+            <a href="/data-deletion" className="hover:text-blue-600">Data Deletion</a>
           </div>
           <p className="text-xs text-slate-400">© {new Date().getFullYear()} Resume With Purpose.</p>
         </div>
